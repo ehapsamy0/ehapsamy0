@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ehap Samy</h1>
 <h3 align="center">A passionate Python and Javascript developer from Egypt</h3>
 
-- 🔭 I’m currently a **Full Stack Developer(django,React) at Hekayati.com**
+- 🔭 I’m currently a **Full Stack Developer(django,React) at Tam Development LLC.**
 
 - 👯 I’m looking to collaborate on **python open source projects.**
 
